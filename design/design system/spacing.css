@@ -1,0 +1,61 @@
+:root{
+
+/* ============================= */
+/* BASE SPACING SCALE */
+/* ============================= */
+
+--space-xs:4px;
+--space-sm:8px;
+--space-md:12px;
+--space-lg:16px;
+--space-xl:20px;
+--space-xxl:24px;
+
+
+/* ============================= */
+/* SCREEN LAYOUT */
+/* ============================= */
+
+--screen-margin:var(--space-xl);
+
+
+/* ============================= */
+/* SECTION SPACING */
+/* ============================= */
+
+--section-gap:var(--space-xl);
+
+
+/* ============================= */
+/* CARD SPACING */
+/* ============================= */
+
+--card-padding:var(--space-lg);
+--card-gap:var(--space-lg);
+
+
+/* ============================= */
+/* BUTTON SPACING */
+/* ============================= */
+
+--button-padding-vertical:var(--space-md);
+--button-padding-horizontal:var(--space-lg);
+
+--button-small-padding-horizontal:var(--space-md);
+
+
+/* ============================= */
+/* GRID / LIST SPACING */
+/* ============================= */
+
+--horizontal-card-gap:var(--space-lg);
+
+
+/* ============================= */
+/* BORDER RADIUS */
+/* ============================= */
+
+--radius-card:12px;
+--radius-small:8px;
+
+}

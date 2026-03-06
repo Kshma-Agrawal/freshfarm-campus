@@ -1,0 +1,29 @@
+:root{
+
+/* BRAND */
+--color-primary:#416546;
+--color-secondary:#789E6A;
+
+/* TEXT */
+--text-primary:#1B1B1B;
+--text-on-primary:#F7F7F7;
+--text-neutral:#A4A4A4;
+
+/* STATUS */
+--color-error:#DC2626;
+--color-warning:#F4C652;
+
+/* BACKGROUNDS */
+--background-main:#F6F6F5;
+--background-card:#FFFFFF;
+
+/* DIVIDER */
+--border-light:rgba(47,127,61,0.05);
+
+/* UI STATES */
+--state-hover:rgba(65,101,70,0.08);
+--state-active:rgba(65,101,70,0.16);
+--state-disabled:#A4A4A4;
+--state-focus:rgba(65,101,70,0.25);
+
+}

@@ -11,7 +11,7 @@ import {
   Check, X, Trash, Funnel, Star,
   Package, CreditCard, Gear, SignOut,
   PencilSimple, ChatCircle, Plus, Minus,
-  MapTrifold, SealCheck, Heart
+  MapTrifold, SealCheck, Heart , barn
 } from '@phosphor-icons/react'
 
 export { logoImg, logoWordmarkImg }

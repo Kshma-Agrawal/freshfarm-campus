@@ -3,8 +3,7 @@
 FarmFresh@Campus is a pilot digital platform designed to connect local farmers with consumers within the university ecosystem for distribution of fresh agricultural produce.
 
 ## Project Status
-Design Flows for Farmer and Consumer module is completed 
-Currently started frontend for both modules and start Planning for Admin module
+Currently iterating frontend and starting backend for Consumer and farmer module 
 
 ## Problem
 Distribution of farm produce in the university ecosystem is manual and unstructured, leading to poor visibility, coordination issues, and wastage.

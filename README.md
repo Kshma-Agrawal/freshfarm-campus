@@ -186,9 +186,9 @@ This enhances accessibility of agricultural knowledge and supports farmers in re
 
 ---
 
-## Deployment Plan
+## Deployment Link
 
-The current plan is to deploy the working MVP using **Netlify** after completion of the active frontend and backend integration for the consumer and farmer modules.
+**https://fresh-farm-campus.netlify.app/**
 
 ---
 
